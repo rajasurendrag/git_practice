@@ -1,2 +1,3 @@
 git status -> gives the current status of the files in repository.
-git add. it is to confirm that the changes made in the file are allowed to add in the next commit.
+git add.  -> it is to confirm that the changes made in the file are allowed to add in the next commit.
+git commit -m -> commits the changes made in the files of the repository. and now the repository is ready to push into the github.
