@@ -1,0 +1,1 @@
+git status -> gives the current status of the files in repository.
